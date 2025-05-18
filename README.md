@@ -1,4 +1,4 @@
-# 📊 Quantitative Finance Regression Analysis with Alpha Signals
+# 📊 Quantitative Regression Analysis with Alpha Signals
 
 This project demonstrates how to build and evaluate alpha signals from raw stock and macroeconomic data using both time-series and cross-sectional regression techniques. It explores momentum, volume surprise, volatility, and beta in explaining weekly stock return differences, while offering hands-on practice with model diagnostics and out-of-sample testing.
 
